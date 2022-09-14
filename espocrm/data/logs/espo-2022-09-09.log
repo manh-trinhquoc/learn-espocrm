@@ -1,0 +1,1 @@
+[2022-09-09 02:02:09] ERROR: Uncaught Exception PDOException: "SQLSTATE[HY000] [2002] Connection refused" at /var/www/html/application/Espo/ORM/PDO/DefaultPDOProvider.php line 97 {"exception":"[object] (PDOException(code: 2002): SQLSTATE[HY000] [2002] Connection refused at /var/www/html/application/Espo/ORM/PDO/DefaultPDOProvider.php:97)"} []
